@@ -10,6 +10,14 @@ font-family: 'Erica One', cursive;
 width: 25%;
 }
 
+.d {
+width: 3%;
+}
+
+.h {
+width: 55%;
+}
+
 h1 {
     font-size: 350%;
 }
